@@ -1,0 +1,1 @@
+CREATE TABLE dbo.STG_0046MultipleShips_Output (mrn INT,CountOfdispense_date INT,[Multiple Ships] INT)

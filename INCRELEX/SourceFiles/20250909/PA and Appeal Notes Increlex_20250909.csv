@@ -1,0 +1,435 @@
+patient_team,note_sys_id,note_patient_mrn,note_patient_sys_id,note_entered_date,note_subject,note_body,note_enter_user,patient_first_name,patient_last_name,patient_full_name,patient_category,patient_status,patient_service_area,patient_referral_organization,patient_referral_source_contact,next_fu,patient_referral_date,patient_insurance_coordinator
+Increlex,7327933,248604,248604,9/8/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name:Increlex
+o	Date of Follow-up: 9/8/2025
+o	Payer: OPTUM
+o	Phone Number:
+o	Contact Name:
+o	Company Name:
+o	Status of Prior Auth:not submitted 
+o	Reason for Hold: pt appointment 
+o	Date of Next Follow-up:10/1/25
+o	Comments:IBC from pt dad sw pharmacy. Pharm rep let me know pt dad has sw mdo and pt appt is 9/29/25 thats the earliest pt could be seen.
+","Skipper, Jasmine",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7327914,252348,252348,9/8/2025,Prior Auth Primary Approved,"Authorization Approved - Primary Insurance
+o	Drug Name:Increlex
+o	Date of Approval:8/5/25
+o	Payer: CAREMARK
+o	Phone Number:800-345-5413
+o	Contact Name:Pearl J
+o	Approval Dates: 8/5/25-9/5/26
+o	Approval Number (if applicable): 25-101564604A   
+o	Comments:OBC TO PLAN SW REP TO OBTAIN APPROVAL 
+","Skipper, Jasmine",Jacob,Spitz,"Spitz, Jacob (252348)",,Active,,,,,8/27/2025,
+Increlex,7324590,248756,248756,9/5/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex 
+o	Date of Follow-up: 9/5/25
+o	Payer: Increlex 
+o	Phone Number:
+o	Contact Name:
+o	Company Name:
+o	Status of Prior Auth: not submitted
+o	Reason for Hold: pt appt needed 
+o	Date of Next Follow-up:9/9/25
+o	Comments:
+OBC to mdo sw Julie 520-420-2212 to f/u on pa renewal havent been seen in a year last appt 7/18/2024 and keep showing up as a no show. They will not process a pa until pt have been seen even thought its due to expire soon. Thanksed her and ended the call. 
+
+OBC to pt parent lvm's. Called regarding pt appt needed before pa can be renewed
+","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7322367,252400,252400,9/5/2025,Appeal Primary No Longer Needed,"Appeal No Longer Needed - Primary Insurance
+Date: 9/5/2025
+Drug Name: Increlex 
+Payer: VA Sentra
+Reason for no longer needed: obc to mdo sw nurse karen johnson she sated pt has moved to another state and is no long seeing md, and she is going to cancel the prescription. Thanked her and ended the call 
+
+","Skipper, Jasmine",Elijiah,Fanelli,"Fanelli, Elijiah (252400)",,Cancelled,,Carilion Children's Pediatric Medicine-Tanglewood,"Garganta, Melissa",,8/29/2025,
+Increlex,7320728,252348,252348,9/4/2025,Prior Auth Primary Follow-Up - Pending Insurance,"Authorization Follow-Up - Primary Insurance - Pending Insurance
+o	Drug Name:Increlex
+o	Date of Follow-up:9/4/2025
+o	Payer:Caremark
+o	Phone Number:800-345-5413
+o	Contact Name:Lisa A
+o	Company Name:
+o	Status of Authorization:Received on 8/27/2025 Pending PA Case #25-101564604A
+o	Comments:OBC to plan and rep stated PA was pending. MD can call 866-814-5506 for an update. 
+ Pending PA Case #25-101564604A
+
+","Skipper, Jasmine",Jacob,Spitz,"Spitz, Jacob (252348)",,Active,,,,,8/27/2025,
+Increlex,7319282,252373,252373,9/4/2025,Appeal Primary No Longer Needed,"Appeal No Longer Needed - Primary Insurance
+Date:09/04/2025
+Drug Name: Increlex
+Payer: Tx Cooks Medicaid
+Reason for no longer needed: Medicaid PAP approved
+","Buggs, Sherita",Keshika,Sundas,"Sundas, Keshika (252373)",,Active,,,,,8/28/2025,
+Increlex,7318761,252400,252400,9/4/2025,Appeal Primary Requirements,"Appeal Requirements - Primary Insurance
+o	Drug Name: Increlex 40MG/4ML
+o	Date Called: 09/03/25
+o	Payer: VA Sentara
+o	Phone Number:
+o	Contact Name: Karen @ MDO
+o	Requirements for Appeal: Will submit PA
+o	Comments:
+
+IBC received with Karen @ MDO on the line calling regarding Appeal requirements. Karen stated she received a message from us regarding the drug is a Plan Exclusion. Karen stated she wanted to submit the Appeal via fax and asked did we have an Appeal Template and informed Karen we did have an Appeal and Medical Necessity Letter Template and confirm the their fax number we have on file. Karen asked if we had contacted the pt already and informed her yes we did confirmed the pt phone numbers and Karen stated she will submit the Appeal. 
+
+Faxed Appeal and Medical Necessity Letter Template to MDO:
+9/3/2025 8:13:08 AM Your fax has been successfully sent to Attention: Karen at 540-857-5388.
+","Skipper, Jasmine",Elijiah,Fanelli,"Fanelli, Elijiah (252400)",,Cancelled,,Carilion Children's Pediatric Medicine-Tanglewood,"Garganta, Melissa",,8/29/2025,
+Increlex,7318639,248604,248604,9/4/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name:Increlex
+o	Date of Follow-up: 9/4/2025
+o	Payer: OPTUM
+o	Phone Number:
+o	Contact Name:
+o	Company Name:
+o	Status of Prior Auth:not submitted 
+o	Reason for Hold: pt appointment 
+o	Date of Next Follow-up: 9/30/25
+o	Comments:IBC from pt dad sw pharmacy. Pharm rep let me know pt dad has sw mdo and pt appt is 9/29/25 thats the earliest pt could be seen.
+","Skipper, Jasmine",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7313130,248756,248756,9/3/2025,Prior Auth Primary Follow-Up - Pending HCP,"Authorization Follow-Up - Primary Insurance - Pending HCP
+o	Drug Name:Increlex
+o	Date of Follow-up: 9/3/2025
+o	Payer: caremark
+o	Phone Number: 800-345-5413/ 800-897-6435
+o	Contact Name:
+o	Company Name:
+o	Status of Authorization: not submitted 
+o	Comments: Obc to plan to to f/u on pa renewal. 
+
+OBC to mdo sw Julie 520-420-2212 to f/u on pa renewal havent been seen in a year last appt 7/18/2024 and keep showing up as a no show. They will not process a pa until pt have been seen even thought its due to expire soon. Thanksed her and ended the call. 
+
+OBC to pt parent lvm's. Called regarding pt appt needed before pa can be renewed","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7310991,252400,252400,9/3/2025,Appeal Primary Requirements,"Appeal Requirements - Primary Insurance
+o	Drug Name: Increlex 40MG/4ML
+o	Date Called: 09/03/25
+o	Payer: VA Sentara
+o	Phone Number:
+o	Contact Name: Karen @ MDO
+o	Requirements for Appeal: Will submit PA
+o	Comments:
+
+IBC received with Karen @ MDO on the line calling regarding Appeal requirements. Karen stated she received a message from us regarding the drug is a Plan Exclusion. Karen stated she wanted to submit the Appeal via fax and asked did we have an Appeal Template and informed Karen we did have an Appeal and Medical Necessity Letter Template and confirm the their fax number we have on file. Karen asked if we had contacted the pt already and informed her yes we did confirmed the pt phone numbers and Karen stated she will submit the Appeal. 
+
+Faxed Appeal and Medical Necessity Letter Template to MDO:
+9/3/2025 8:13:08 AM Your fax has been successfully sent to Attention: Karen at 540-857-5388.
+","Higgins, Natasha",Elijiah,Fanelli,"Fanelli, Elijiah (252400)",,Cancelled,,Carilion Children's Pediatric Medicine-Tanglewood,"Garganta, Melissa",,8/29/2025,
+Increlex,7307255,252400,252400,9/2/2025,Appeal Primary No Longer Needed,"Appeal No Longer Needed - Primary Insurance
+Date: 9/2/2025
+Drug Name: increlex 
+Payer:  va sentara
+Reason for no longer needed: pt has medcaid and we can offer pap since pa cant be submitted for increlex 
+","Skipper, Jasmine",Elijiah,Fanelli,"Fanelli, Elijiah (252400)",,Cancelled,,Carilion Children's Pediatric Medicine-Tanglewood,"Garganta, Melissa",,8/29/2025,
+Increlex,7305251,252348,252348,9/2/2025,Prior Auth Primary Follow-Up - Pending Insurance,"Authorization Follow-Up - Primary Insurance - Pending Insurance
+o	Drug Name:Increlex
+o	Date of Follow-up:9/2/2025
+o	Payer:Caremark
+o	Phone Number:800-345-5413
+o	Contact Name:
+o	Company Name:
+o	Status of Authorization:Received on 8/27/2025 Pending PA Case #25-101564604A
+o	Comments:OBC to plan and rep stated PA was pending. MD can call 866-814-5506 for an update. 
+OBC to MD@678-961-2100 office closed..MD can call 866-814-5506 for an update. Pending PA Case #25-101564604A
+
+","Skipper, Jasmine",Jacob,Spitz,"Spitz, Jacob (252348)",,Active,,,,,8/27/2025,
+Increlex,7302460,252400,252400,8/29/2025,Appeal Primary Requirements,"Appeal Requirements - Primary Insurance
+o	Drug Name: Increlex
+o	Date Called: 8/29/2025
+o	Payer: Sentara
+o	Phone Number: 540-769-0976 MD office)
+o	Contact Name: Asked for Karen Johnson RN for MD
+o	Requirements for Appeal:  Pa is not an option excluded from the plan. MD have to submit an appeal md can call the appeal department @ 844-434-2016. 
+
+OBC TO MD HAD TO LVM ABOUT APPEAL. 
+
+o	Comments:
+","Skipper, Jasmine",Elijiah,Fanelli,"Fanelli, Elijiah (252400)",,Cancelled,,Carilion Children's Pediatric Medicine-Tanglewood,"Garganta, Melissa",,8/29/2025,
+Increlex,7298926,252373,252373,8/29/2025,Appeal Primary Denied - Other,"Appeal Denied - Other - Primary Insurance
+o	Drug Name:Increlex
+o	Date of Denial:8/26/2025
+o	Payer:Cooks TX Medicaid
+o	Phone Number:800-964-2247
+o	Contact Name:Bertha C and Jennifer M
+o	Next Level Appeal?:No
+o	Next Level Appeal Requirements:Unable to initiate all methods have been exhausted per Rep 
+o	Comments:
+OBC to Cooks Children @800-964-2247 sw Bertha C she stated Appeal can be initiated by Faxing Documents needed to 682-885-8402 Attn:Appeal Denials Department. She also stated there was a Fair Hearing that was requested from pt father and it was also denied..Referrals #4317357.sw Jennifer M and she stated they have exhausted all ways of attempting to get medication PA Approved. We will now have to offer pt PAP.Estella P stated Appeal denied on 8/26/2025
+","Smith, LaShawn",Keshika,Sundas,"Sundas, Keshika (252373)",,Active,,,,,8/28/2025,
+Increlex,7298616,252373,252373,8/29/2025,Prior Auth Primary Follow-Up - Pending HCP,"Authorization Follow-Up - Primary Insurance - Pending HCP
+o	Drug Name:Increlex
+o	Date of Follow-up:8/29/2025
+o	Payer:TX Medicaid
+o	Phone Number:877-908-6023
+o	Contact Name:Alana V 18335783
+o	Company Name:
+o	Status of Authorization:Not initiated since May
+o	Comments:OBC to plan sw Rep and she stated MD had previously submitted a PA#17635006 back in April and it denied 5/7/2025. Rep stated we need to call Cooks Medicaid @800-964-2247 for Appeal Requirements.
+OBC to Cooks Children @800-964-2247 sw Bertha C she stated Appeal can be initiated by Faxing Documents needed to 682-885-8402 Attn:Appeal Denials Department. She also stated there was a Fair Hearing that was requested from pt father and it was also denied..Referrasl #4317357.sw Jennifer M and she stated they have exhausted all ways of attempting to get medication PA Approved. We will now have to offer pt PAP.
+","Smith, LaShawn",Keshika,Sundas,"Sundas, Keshika (252373)",,Active,,,,,8/28/2025,
+Increlex,7298098,248756,248756,8/29/2025,Prior Auth Primary Follow-Up - Pending HCP,"Authorization Follow-Up - Primary Insurance - Pending HCP
+o	Drug Name:Increlex
+o	Date of Follow-up: 8/29/25
+o	Payer: caremark
+o	Phone Number: 800-345-5413/ 800-897-6435
+o	Contact Name:Sarah D
+o	Company Name:
+o	Status of Authorization: not submitted 
+o	Comments: Obc to plan to to f/u on pa renewal.
+
+Office is currently closed will circle back
+fax succesfully sent to MDO  @ 520-420-2222:
+ATTENTION: Chetanbabu Patel, MD 
+We are reaching out regarding PATIENT: G.C DOB: 5/30/2013 . PRIOR AUTHORIZATION IS NEEDED FOR INCRELEX .  PRIOR AUTHORIZARION IS due to expire 09/21/2025 with PA can be submitted by calling the plan at 800-897-6435. YOU HAVE ANY QUESTIONS, PLEASE GIVE ANOVO A CALL 833-343-2500 OPTION 2. THANK YOU FOR YOUR COOPERATION. 
+Anovo Pharmacy
+
+","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7296408,252373,252373,8/28/2025,Prior Auth Primary Requirements,"Authorization Requirements - Primary Insurance
+o	Drug Name:Increlex
+o	Date called:8/28/2025
+o	Payer:TX Medicaid
+o	Phone Number:877-908-6023
+o	Contact Name:Kedaja S 18334289
+o	Requirements of PA:MD can call 877-908-6023 Fax 855-668-8553
+o	Comments:OBC to plan and Rep gave PA Requirements. MD can call 877-908-6023 Fax 855-668-8553
+OBC to MD@682-885-7960 lvm ..MD can call 877-908-6023 Fax 855-668-8553 send MR, CN, Labs
+","Smith, LaShawn",Keshika,Sundas,"Sundas, Keshika (252373)",,Active,,,,,8/28/2025,
+Increlex,7295734,252348,252348,8/28/2025,Prior Auth Primary Follow-Up - Pending Insurance,"Authorization Follow-Up - Primary Insurance - Pending Insurance
+o	Drug Name:Increlex
+o	Date of Follow-up:8/28/2025
+o	Payer:Caremark
+o	Phone Number:800-345-5413
+o	Contact Name:
+o	Company Name:
+o	Status of Authorization:Received on 8/27/2025 Pending PA Case #25-101564604A
+o	Comments:OBC to plan and rep stated PA was pending. MD can call 866-814-5506 for an update. 
+OBC to MD@678-961-2100 office closed..MD can call 866-814-5506 for an update. Pending PA Case #25-101564604A
+","Smith, LaShawn",Jacob,Spitz,"Spitz, Jacob (252348)",,Active,,,,,8/27/2025,
+Increlex,7292429,248756,248756,8/28/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex 
+o	Date of Follow-up: 8/28/2025
+o	Payer:caremark
+o	Phone Number:800-345-5413/ 800-897-6435
+o	Contact Name: Dara N
+o	Company Name:
+o	Status of Prior Auth: not submitted 
+o	Reason for Hold: Too Soon to Submit 
+o	Date of Next Follow-up:8/29/2025
+o	Comments: OBC to plan to f/u on pa renewal. Rep adivsed for the MD not to submit too soon should at least wait 14 days. When its time MD must call the pa dept to submit pa 800-897-6435 Thanked her and ended the call.","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7286494,252348,252348,8/27/2025,Prior Auth Primary Requirements,"Authorization Requirements - Primary Insurance
+o	Drug Name:Increlex
+o	Date called:8/27/2025
+o	Payer:Caremark
+o	Phone Number:800-345-5413
+o	Contact Name:Alexandria T/ Lawanda B
+o	Requirements of PA:MD can use CMM Key BDJW7QMY or by calling 866-814-5506 or Fax# 866-249-6155
+o	Comments:OBC to Plan and Rep gave Requirements..MD can use CMM Key BDJW7QMY or by calling 866-814-5506 or Fax# 866-249-6155
+OBC to MD@678-961-2100 lvm MD can use CMM Key BDJW7QMY or by calling 866-814-5506 or Fax# 866-249-6155 to obtain PA
+","Smith, LaShawn",Jacob,Spitz,"Spitz, Jacob (252348)",,Active,,,,,8/27/2025,
+Increlex,7285397,248604,248604,8/27/2025,Prior Auth Primary Follow-Up - Pending HCP,"Authorization Follow-Up - Primary Insurance - Pending HCP
+o	Drug Name: Increlex
+o	Date of Follow-up: 8/27/24
+o	Payer: Optum
+o	Phone Number: 773-702-6138 (MD Office)
+o	Contact Name: Victoria
+o	Company Name:
+o	Status of Authorization: not submitted 
+
+Obc to MD sw Victoria about Pa is urgently needed. She stated the MD will not process PA b/c PT have not been seen in a year, PT doesnt have upcoming appt, and MD isnt in network w/ plan anymore. I let Victoria know I reached out to plan and provide MD NPI and they still show in network. She stated she understand what im saying but the office overrall is not caterung to that ins. Thanked her ended the call 
+
+
+
+PREVIOUS CONVERSATION: OBC TO PLAN 877-889-6510 Anna to check if the MD is still in network w/ plan if the plan is terming soon. Rep stated MD is still in network (provided NPI) and if any questions about provider I have to call member services @ 888-867-5662. Also plan is active until 2039. thanked her and ended the call.","Skipper, Jasmine",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7278916,248842,248842,8/26/2025,Prior Auth Primary Approved,"Authorization Approved - Primary Insurance
+o	Drug Name:Increlex
+o	Date of Approval:8/25/2025
+o	Payer:Medi-cal RX
+o	Phone Number:800-977-2273
+o	Contact Name:Vivian A 
+o	Approval Dates:8/25/2025-8/25/2026
+o	Approval Number (if applicable):71625104
+o	Comments:
+","Smith, LaShawn",Bibiana,Rojasrivera,"Rojasrivera, Bibiana (248842)",,Active,,CVS/specialty,,,12/27/2024,
+Increlex,7278201,248756,248756,8/26/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex 
+o	Date of Follow-up: 8/20/2025
+o	Payer: 8/26/2025
+o	Phone Number:800-345-5413/ 800-897-6435
+o	Contact Name: Dara N
+o	Company Name:
+o	Status of Prior Auth: not submitted 
+o	Reason for Hold: Too Soon to Submit 
+o	Date of Next Follow-up:8/29/2025
+o	Comments: OBC to plan to f/u on pa renewal. Rep adivsed for the MD not to submit too soon should at least wait 14 days. When its time MD must call the pa dept to submit pa 800-897-6435 Thanked her and ended the call.","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7274332,248842,248842,8/25/2025,Prior Auth Primary Requirements,"Authorization Requirements - Primary Insurance
+o	Drug Name: Increlex
+o	Date called: 08/25/2025
+o	Payer: MEDICAID CA- MEDI-CALRX 6334225 
+o	Phone Number: 800-977-2273
+o	Contact Name: Jennie J #78616367
+o	Requirements of PA: MDO must obtain new PA since Qty and date span changed to 32/29 
+o	Comments:
+OBC to Medi Cal Rx pharmacy help desk @800-977-2273 s/w Rep she stated Claim rejected for PLE.. MD must obtain PA through CMM, form can be obtained from website medi.cal.rx.ca.gov and fx to 800-869-4325, Thanked her and ended call.
+
+OBC to MDO @559-353-6600 lvm..New PA req since Qty and date span changed to 32/29 (8/29). I provided the CMM code BDBWRTH7 and faxed it over to 559-353-6612 @MD's Office..and  form can be obtained from website medi.cal.rx.ca.gov and fx to 800-869-4325..
+","Smith, LaShawn",Bibiana,Rojasrivera,"Rojasrivera, Bibiana (248842)",,Active,,CVS/specialty,,,12/27/2024,
+Increlex,7271851,248604,248604,8/25/2025,Prior Auth Primary Follow-Up - Pending HCP,"Authorization Follow-Up - Primary Insurance - Pending HCP
+o	Drug Name: Increlex
+o	Date of Follow-up: 8/25/24
+o	Payer: Optum
+o	Phone Number: 773-702-6138 (MD Office)
+o	Contact Name: Victoria
+o	Company Name:
+o	Status of Authorization: not submitted 
+
+Obc to MD sw Victoria about Pa is urgently needed. She stated the MD will not process PA b/c PT have not been seen in a year, PT doesnt have upcoming appt, and MD isnt in network w/ plan anymore. 
+
+OBC TO PLAN 877-889-6510 Anna to check if the MD is still in network w/ plan if the plan is terming soon. Rep stated MD is still in network (provided NPI) and if any questions about provider I have to call member services @ 888-867-5662. Also plan is active until 2039. thanked her and ended the call. 
+","Skipper, Jasmine",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7264863,248756,248756,8/22/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex 
+o	Date of Follow-up: 8/20/2025
+o	Payer: 8/22/2025
+o	Phone Number:800-345-5413/ 800-897-6435
+o	Contact Name: Dara N
+o	Company Name:
+o	Status of Prior Auth: not submitted 
+o	Reason for Hold: Too Soon to Submit 
+o	Date of Next Follow-up:8/29/2025
+o	Comments: OBC to plan to f/u on pa renewal. Rep adivsed for the MD not to submit too soon should at least wait 14 days. When its time MD must call the pa dept to submit pa 800-897-6435 Thanked her and ended the call.","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7259954,248604,248604,8/21/2025,Prior Auth Primary Follow-Up - Pending HCP,"Authorization Follow-Up - Primary Insurance - Pending HCP
+o	Drug Name:Increlex 
+o	Date of Follow-up: 8/21/2025
+o	Payer: OPTUM
+o	Phone Number:  877-889-6510
+o	Contact Name: Oscar F
+o	Company Name:
+o	Status of Authorization: not submitted.
+OBC to plan to f/u on PA renewal
+
+OBC to MDO 773-702-6138 LVM about expired pa. 
+
+Previous coversation from MDO   Sw Tishayla about upcoming appt she stated PT still doesnt have an upcoming appt, and she will send a  message to the care team about PA. She also mention about ins coverage and I let her know I sw w/ the plan and coverage is still in effect. She stated she will have someone to from MD team to reach out. Thanked her and ended the call. 
+
+ 
+","Skipper, Jasmine",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7254414,248756,248756,8/20/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex 
+o	Date of Follow-up: 8/20/2025
+o	Payer: 8/14/2025
+o	Phone Number:800-345-5413/ 800-897-6435
+o	Contact Name: Dara N
+o	Company Name:
+o	Status of Prior Auth: not submitted 
+o	Reason for Hold: Too Soon to Submit 
+o	Date of Next Follow-up:8/29/2025
+o	Comments: OBC to plan to f/u on pa renewal. Rep adivsed for the MD not to submit too soon should at least wait 14 days. When its time MD must call the pa dept to submit pa 800-897-6435 Thanked her and ended the call.
+","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7249468,248604,248604,8/19/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex
+o	Date of Follow-up: 8/19/25
+o	Payer: OPTUM
+o	Phone Number:
+o	Contact Name:
+o	Company Name:
+o	Status of Prior Auth: not submitted
+o	Reason for Hold: 
+o	Date of Next Follow-up:8/22/25 
+o	Comments: OBC to MDO 773-702-6138 to f/u on PT appt. Sw Tishayla about upcoming appt she stated PT still doesnt have an upcoming appt, and she will send a  message to the care team about PA. She also mention about ins coverage and I let her know I sw w/ the plan and coverage is still in effect. She stated she will have someone to from MD team to reach out. Thanked her and ended the call. 
+","Skipper, Jasmine",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7248385,248617,248617,8/19/2025,Prior Auth Primary No Longer Needed,"Authorization No Longer Needed - Primary Insurance
+Date: 8/19/25
+Drug Name: Increlex
+Payer: OPTUM
+Reason for no longer needed: s/w rep Juan L who stated the QTY limit doesnt have sepereate pa for it, the plan just extended the coverage of the pa that is already on file  that  doesnt expire until 8/5/26. Thanked him and ended the call. 
+","Skipper, Jasmine",Teague,Morgan,"Morgan, Teague (248617)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7241549,248756,248756,8/18/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex 
+o	Date of Follow-up: 8/18/2025
+o	Payer: 8/14/2025
+o	Phone Number:800-345-5413/ 800-897-6435
+o	Contact Name: Dara N
+o	Company Name:
+o	Status of Prior Auth: not submitted 
+o	Reason for Hold: Too Soon to Submit 
+o	Date of Next Follow-up:8/29/2025
+o	Comments: OBC to plan to f/u on pa renewal. Rep adivsed for the MD not to submit too soon should at least wait 14 days. When its time MD must call the pa dept to submit pa 800-897-6435 Thanked her and ended the call.","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7236600,250163,250163,8/15/2025,Prior Auth Primary No Longer Needed,"Authorization No Longer Needed - Primary Insurance
+Date: 8/15/2025
+Drug Name: Increlex
+Payer:MEDICAID AR 
+Reason for no longer needed: PT is on PAP 
+","Skipper, Jasmine",Skylar,Mack,"Mack, Skylar (250163)",,Active,,Arkansas Children's Hospital,"Smith, Whitney N",,3/26/2025,
+Increlex,7236457,248604,248604,8/15/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex
+o	Date of Follow-up:8/15/2025
+o	Payer: OPTUM
+o	Phone Number: 877-889-6510
+o	Contact Name: Sofia (MD OFFICE)
+o	Company Name:
+o	Status of Prior Auth:not submitted 
+o	Reason for Hold:  Pending PT APPT but APPT havent been set yet
+o	Date of Next Follow-up: 
+o	Comments: Previous coversation from MDO  At the Md office I sw Sofia  who states the PT hasnt been seen in over a year, and they cant process anything on the PT until they have been seen. I asked do PT have upcoming appt or have been contacted. Sofia stated no upcoming appt and they have been contacted no response
+ 
+","Skipper, Jasmine",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7231002,248756,248756,8/14/2025,Prior Auth Primary On Hold,"Authorization Follow-Up - Primary Insurance - ON HOLD
+o	Drug Name: Increlex 
+o	Date of Follow-up: 8/14/2025
+o	Payer: 8/14/2025
+o	Phone Number:800-345-5413/ 800-897-6435
+o	Contact Name: Dara N
+o	Company Name:
+o	Status of Prior Auth: not submitted 
+o	Reason for Hold: Too Soon to Submit 
+o	Date of Next Follow-up:8/29/2025
+o	Comments: OBC to plan to f/u on pa renewal. Rep adivsed for the MD not to submit too soon should at least wait 14 days. When its time MD must call the pa dept to submit pa 800-897-6435 Thanked her and ended the call. 
+","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,
+Increlex,7226105,248617,248617,8/13/2025,Prior Auth Primary Requirements,"Authorization Requirements - Primary Insurance
+o	Drug Name: Increlex 
+o	Date called: 8/13/2025
+o	Payer: OPTUM
+o	Phone Number: 866-325-1794
+o	Contact Name: Keishla B
+o	Requirements of PA: PA IS NEEDED  FOR OTY LIMITED o	Comments: S/w rep about rejected  TC  for QTY. Rep stated another PA PRE CERTIFCATION FOR QTY LIMIT IS NEEDED. MD can get form to print @ www.azblue.com and locate the pre certfication form fill out and fax 602-864-3126.
+
+OBC to MD 520-694-5437 sw Nilly who sent message to nurse about pa needed for OTY LIMIT. Left CB details. 
+
+fax successfully sent to md @ 520-694-4384
+ATTENTION: Cindy Chin MD 
+
+We are reaching out regarding PATIENT: T.M   DOB: 06/15/2010. PRIOR AUTHORIZATION IS NEEDED FOR INCRELEX FOR OTY LIMIT. PRE CERTIFICATION FORM CAN BE FOUND ON WWW.AZBLUE.COM AND FAX THE FORM TO 602-864-3126. YOU HAVE ANY QUESTIONS, PLEASE GIVE ANOVO A CALL 833-343-2500 OPTION 2. THANK YOU FOR YOUR COOPERATION. 
+Anovo Pharmacy
+
+","Skipper, Jasmine",Teague,Morgan,"Morgan, Teague (248617)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7226018,248617,248617,8/13/2025,Prior Auth Primary Approved,"Authorization Approved - Primary Insurance
+o	Drug Name: Increlex 
+o	Date of Approval:
+o	Payer: 8/13/25
+o	Phone Number: 866-325-1794
+o	Contact Name: Keishla B
+o	Approval Dates: 8/5/25-8/5/26
+o	Approval Number (if applicable):HUB93115604
+","Skipper, Jasmine",Teague,Morgan,"Morgan, Teague (248617)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7224212,248604,248604,8/13/2025,Prior Auth Primary Follow-Up - Pending HCP,"Authorization Follow-Up - Primary Insurance - Pending HCP
+o	Drug Name: Increlex 
+o	Date of Follow-up: 8/13/2025
+o	Payer: OPTUM
+o	Phone Number:877-889-6510
+o	Contact Name: Mark T
+o	Company Name:
+o	Status of Authorization: not submitted
+o	Comments: OBC to plan to f/u on pa renewal listed above. 
+
+Previous coversation from MDO  At the Md office I sw Sofia  who states the PT hasnt been seen in over a year, and they cant process anything on the PT until they have been seen. I asked do PT have upcoming appt or have been contacted. Sofia stated no upcoming appt and they have been contacted no response
+","Skipper, Jasmine",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",,Active,,Optum Specialty Pharmacy,,,12/16/2024,
+Increlex,7211648,248756,248756,8/11/2025,Prior Auth Primary Requirements,"Authorization Requirements - Primary Insurance
+o	Drug Name:Increlex 
+o	Date called:8/11/2025
+o	Payer: Carmark
+o	Phone Number: 800-345-5413/ 800-897-6435
+o	Contact Name: Abbie L
+o	Requirements of PA: MS must call the pa dep t to submit pa 800-897-6435
+o	Comments:OBC to plan to obtain pa reqs listed above
+
+OBC to MD to give pa req office is close will circle back
+","Skipper, Jasmine",Gino,Cuppari,"Cuppari, Gino (248756)",,Active,,CVS/specialty,,,12/19/2024,

@@ -1,0 +1,615 @@
+note_sys_id,note_patient_mrn,note_patient_sys_id,note_invoice_number,note_claim_number,note_user_sys_id,note_entered_date,note_follow_up_date,note_subject,note_body,note_bill_note_yn,note_auto_yn,note_void_yn,note_follow_up_user_sys_id,note_follow_up_done_yn,note_type,company_sys_id,company_name,company_parent_sys_id,company_parent_name,note_count,invoice_status,note_follow_up_user,note_enter_user,patient_first_name,patient_last_name,patient_full_name,patient_gender,patient_category,patient_status,patient_team,patient_service_area,patient_sales_rep,patient_referral_organization,patient_referral_source_contact,patient_primary_rn,next_fu,patient_referral_date,patient_insurance_coordinator
+6875724,249279,249279,561904,,476,5/20/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,730.00 
+Date of service: 05/20/2025
+Total primary copay: $90.00
+Amount to be adjusted: $90.00
+Adjustment Code: INCCP
+",Y,N,N,476,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Saanvi,Patel,"Patel, Saanvi (249279)",F,,Active,Increlex,,,Nicklaus Children's Health System,"Tarkoff, Joshua",,,1/28/2025,
+6875060,248745,248745,563456,,96,5/20/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,225.00 
+Date of service: 05/20/2025
+Total primary copay: $250.00
+Amount to be adjusted: $250.00
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Ayaan,Ghai-Shah,"Ghai-Shah, Ayaan (248745)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6869359,248743,248743,562692,,476,5/19/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $38,671.26 
+Date of service: 05/19/2025
+Total primary copay: $75.00
+Amount to be adjusted: $75.00
+Adjustment Code: INCCP
+",Y,N,N,476,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Eduardo,Ramos,"Ramos, Eduardo (248743)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6850757,248735,248735,563079,,476,5/14/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $42,244.87 
+Date of service: 05/14/2025
+Total primary copay: $75.00
+Amount to be adjusted: $75.00
+Adjustment Code: INCCP
+",Y,N,N,476,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Logan,Rego,"Rego, Logan (248735)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6839253,250312,250312,560983,,96,5/12/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 05/12/2025
+Total primary copay: $75.00
+Amount to be adjusted: $75.00
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Benjamin,Friedman,"Friedman, Benjamin (250312)",M,,Active,Increlex,,,,,,,4/7/2025,
+6839231,248607,248607,559585,,96,5/12/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,590.00 
+Date of service: 05/12/2025
+Total primary copay: $30.00
+Amount to be adjusted: $30.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",John,Morgenstern Jr,"Morgenstern Jr, John (248607)",M,,Active,Increlex,,,Pediatric Endocrinology & Diabetes,"Kishiyama, Christopher M",,,12/16/2024,
+6811607,248913,248913,557368,,476,5/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $43,595.95
+Date of service: 05/05/2025
+Total primary copay: $1641.48
+Amount to be adjusted: $1641.48
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Jackson,Puckett,"Puckett, Jackson (248913)",M,,Active,Increlex,,,,,,,1/6/2025,
+6811274,248604,248604,557316,,96,5/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,880.00 
+Date of service: 05/05/2025
+Total primary copay: $30.00
+Amount to be adjusted: $30.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",F,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6796117,248617,248617,558553,,96,4/30/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,520.00 
+Date of service: 04/30/2025
+Total primary copay: $120.00
+Amount to be adjusted: $120.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Teague,Morgan,"Morgan, Teague (248617)",M,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6794345,248752,248752,558162,,476,4/30/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $44,036.18 
+Date of service: 04/30/2025
+Total primary copay: $114.00
+Amount to be adjusted: $114.00
+Adjustment Code: INCCP
+",Y,N,N,476,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Haochen,Song,"Song, Haochen (248752)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6793516,248780,248780,557559,,96,4/30/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $45,818.48 
+Date of service: 04/30/2025
+Total primary copay: $80.00
+Amount to be adjusted: $80.00
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Mia,Liautaud,"Liautaud, Mia (248780)",F,,Active,Increlex,,,CVS/specialty,,,,12/20/2024,
+6793448,248717,248717,557339,,96,4/30/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $51,121.39 
+Date of service: 04/30/2025
+Total primary copay: $100.00
+Amount to be adjusted: $100.00
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Eleanor,Canard,"Canard, Eleanor (248717)",F,,Active,Increlex,,,Cook Children's Endocrinology and Diabet,"Thomas, Teena C",,,12/19/2024,
+6787080,248841,248841,556116,,96,4/29/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $53,000.00 
+Date of service: 04/29/2025
+Total primary copay: $500.00
+Amount to be adjusted: $500.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Kai,Crain,"Crain, Kai (248841)",M,,Active,Increlex,,,Joe DiMaggio Children's Health Specialty Center -W,"Flores, Mauricio",,,12/27/2024,
+6780925,249156,249156,524005,,96,4/28/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $52,141.07 
+Date of service: 04/28/2025
+Total primary copay: $200.00
+Amount to be adjusted:$200.00
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Carolina,Fagundes,"Fagundes, Carolina (249156)",F,,Active,Increlex,,,University of Miami Miller School of Medicine,"Berkowitz, Gary",,,1/22/2025,
+6762836,248745,248745,555861,,96,4/23/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54475.00
+Date of service: 04/23/2025
+Total primary copay: $250.00
+Amount to be adjusted: $250.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Ayaan,Ghai-Shah,"Ghai-Shah, Ayaan (248745)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6762473,249279,249279,553546,,476,4/23/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:$54,820.00 
+Date of service: 04/23/2025
+Total primary copay: $90.00
+Amount to be adjusted: $90.00
+Adjustment Code: INCCP
+",Y,N,N,476,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Saanvi,Patel,"Patel, Saanvi (249279)",F,,Active,Increlex,,,Nicklaus Children's Health System,"Tarkoff, Joshua",,,1/28/2025,
+6750543,248743,248743,550977,,476,4/21/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $38,746.26 
+Date of service: 04/21/2025
+Total primary copay: $75.00
+Amount to be adjusted: $75.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Eduardo,Ramos,"Ramos, Eduardo (248743)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6732798,248735,248735,553249,,476,4/16/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $42,319.87 
+Date of service: 04/16/2025
+Total primary copay: $75.00
+Amount to be adjusted: $75.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Logan,Rego,"Rego, Logan (248735)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6732792,249046,249046,553164,,476,4/16/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $42,975.00  
+Date of service: 04/16/2025
+Total primary copay: $25.00
+Amount to be adjusted: $25.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Levi,Rine,"Rine, Levi (249046)",M,,Active,Increlex,,,"Pediatric  Endocrinology,  Physician Off","Jones, Evan A",,,1/15/2025,
+6727092,248615,248615,552066,,476,4/15/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,650.00 
+Date of service: 04/15/2025
+Total primary copay: $40.00
+Amount to be adjusted: $40.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Benjamin,Palancia,"Palancia, Benjamin (248615)",M,,Inactive,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6721694,248454,248454,547529,,96,4/14/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: 39753.17
+Date of service: 04/14/2025
+Total primary copay: $25.00
+Amount to be adjusted: $25.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Henry,Coleman,"Coleman, Henry (248454)",M,,Active,Increlex,,,Walgreens Specialty Pharmacy,,,,12/9/2024,
+6698800,248755,248755,549213,,96,4/8/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,840.00 
+Date of service: 04/08/2025
+Total primary copay: $80.00
+Amount to be adjusted: $80.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Anthony,Eager,"Eager, Anthony (248755)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6698774,248780,248780,548407,,96,4/8/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $45,898.48 
+Date of service: 04/08/2025
+Total primary copay: $80.00
+Amount to be adjusted: $80.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Mia,Liautaud,"Liautaud, Mia (248780)",F,,Active,Increlex,,,CVS/specialty,,,,12/20/2024,
+6695997,248732,248732,550649,,96,4/7/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 04/07/2025
+Total primary copay: $7500.00
+Amount to be adjusted: $7500.00
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Brady,Cutshall,"Cutshall, Brady (248732)",M,,Active,Increlex,,,TC Script Pharmacy,,,,12/19/2024,
+6692945,248607,248607,549030,,96,4/7/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,770.00
+Date of service: 04/07/2025
+Total primary copay: 30.00
+Amount to be adjusted: $30.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",John,Morgenstern Jr,"Morgenstern Jr, John (248607)",M,,Active,Increlex,,,Pediatric Endocrinology & Diabetes,"Kishiyama, Christopher M",,,12/16/2024,
+6692799,248717,248717,548060,,96,4/7/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $51,221.39 
+Date of service: 04/07/2025
+Total primary copay: $100.00
+Amount to be adjusted: $100.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Eleanor,Canard,"Canard, Eleanor (248717)",F,,Active,Increlex,,,Cook Children's Endocrinology and Diabet,"Thomas, Teena C",,,12/19/2024,
+6692637,248752,248752,548796,,476,4/7/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $44,264.18
+Date of service: 04/08/2025
+Total primary copay: $114.00
+Amount to be adjusted: $114.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Haochen,Song,"Song, Haochen (248752)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6692588,248604,248604,547540,,96,4/7/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,910.00
+Date of service: 04/07/2025
+Total primary copay: $30
+Amount to be adjusted: $30
+Adjustment Code: INCCP
+
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",F,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6669886,248841,248841,546640,,96,4/1/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $53,500.00
+Date of service: 04/01/2025
+Total primary copay: $500.00
+Amount to be adjusted: $500.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Kai,Crain,"Crain, Kai (248841)",M,,Active,Increlex,,,Joe DiMaggio Children's Health Specialty Center -W,"Flores, Mauricio",,,12/27/2024,
+6664170,248913,248913,545339,,476,3/31/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: 48251.13
+Date of service: 03/31/2025
+Total primary copay: $2234.05
+Amount to be adjusted: $2234.05
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Jackson,Puckett,"Puckett, Jackson (248913)",M,,Active,Increlex,,,,,,,1/6/2025,
+6664089,249279,249279,545277,,476,3/31/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,910.00
+Date of service: 03/31/2025
+Total primary copay: $90.00
+Amount to be adjusted: $90.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Saanvi,Patel,"Patel, Saanvi (249279)",F,,Active,Increlex,,,Nicklaus Children's Health System,"Tarkoff, Joshua",,,1/28/2025,
+6663761,248745,248745,546242,,96,3/31/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54725.00
+Date of service: 03/31/2025
+Total primary copay: $250.00
+Amount to be adjusted: $250.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Ayaan,Ghai-Shah,"Ghai-Shah, Ayaan (248745)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6663660,248617,248617,0,,96,3/31/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,640.00
+Date of service: 03/31/2025
+Total primary copay: $120.00
+Amount to be adjusted: $120.00
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,,Joanita Cook-Brown,"Cook-Brown, Joanita",Teague,Morgan,"Morgan, Teague (248617)",M,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6650553,248733,248733,546777,,96,3/27/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,885
+Date of service: 03/27/2025
+Total primary copay: $55.00
+Amount to be adjusted: $55.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Lilly,Bakhchi,"Bakhchi, Lilly (248733)",F,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6644246,248733,248733,546310,,96,3/26/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,940.00 
+Date of service: 03/26/2025
+Total primary copay: $55.00
+Amount to be adjusted: $55.00
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,,Joanita Cook-Brown,"Cook-Brown, Joanita",Lilly,Bakhchi,"Bakhchi, Lilly (248733)",F,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6643901,249156,249156,544286,,96,3/26/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $52,341.07 
+Date of service: 03/26/2025
+Total primary copay: $200.00
+Amount to be adjusted: $200.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Carolina,Fagundes,"Fagundes, Carolina (249156)",F,,Active,Increlex,,,University of Miami Miller School of Medicine,"Berkowitz, Gary",,,1/22/2025,
+6637576,224091,224091,545443,,231,3/25/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $14,715.00
+Date of service: 03/25/2025
+Total primary copay: $75
+Amount to be adjusted: $55
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,23,AnovoRx Group LLC,12,Site 12 Phoenix,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Sophia,Miana,"Miana, Sophia (224091)",F,,Active,Isturisa,,,UW Medicine,"Desantis, Anthony J",,,5/22/2020,
+6633173,248615,248615,544060,,476,3/24/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,840.00 
+Date of service: 03/24/2025
+Total primary copay: $190.00
+Amount to be adjusted: $190.00
+Adjustment Code:ASPCP
+
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Benjamin,Palancia,"Palancia, Benjamin (248615)",M,,Inactive,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6632714,248607,248607,545343,,476,3/24/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,800.00 
+Date of service: 03/24/2025
+Total primary copay: 30.00
+Amount to be adjusted: $30.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",John,Morgenstern Jr,"Morgenstern Jr, John (248607)",M,,Active,Increlex,,,Pediatric Endocrinology & Diabetes,"Kishiyama, Christopher M",,,12/16/2024,
+6601287,248743,248743,538019,,476,3/17/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $38,821.26 
+Date of service: 03/17/2025
+Total primary copay: $75.00
+Amount to be adjusted: $75.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Eduardo,Ramos,"Ramos, Eduardo (248743)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6601249,248780,248780,540617,,96,3/17/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $45,978.48 
+Date of service: 03/17/2025
+Total primary copay: $80.00
+Amount to be adjusted: $80.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Mia,Liautaud,"Liautaud, Mia (248780)",F,,Active,Increlex,,,CVS/specialty,,,,12/20/2024,
+6594412,248913,248913,0,,170,3/13/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $48,232.02
+Date of service: 03/13/25
+Total primary copay:$2421.13
+Amount to be adjusted:$2421.13
+Adjustment Code: INCCP
+",Y,N,N,170,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,,dmack,"Mack, Denetrius",Jackson,Puckett,"Puckett, Jackson (248913)",M,,Active,Increlex,,,,,,,1/6/2025,
+6593571,248617,248617,540819,,96,3/13/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,760.00 
+Date of service: 03/13/2025
+Total primary copay: $120.00
+Amount to be adjusted: $120.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Denied,Joanita Cook-Brown,"Cook-Brown, Joanita",Teague,Morgan,"Morgan, Teague (248617)",M,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6587646,248607,248607,539505,,96,3/12/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,800.00 
+Date of service: 03/12/2025
+Total primary copay: $150.00
+Amount to be adjusted: $150.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Denied,Joanita Cook-Brown,"Cook-Brown, Joanita",John,Morgenstern Jr,"Morgenstern Jr, John (248607)",M,,Active,Increlex,,,Pediatric Endocrinology & Diabetes,"Kishiyama, Christopher M",,,12/16/2024,
+6583671,249046,249046,540638,,476,3/12/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $43,000.00 
+Date of service: 03/12/2025
+Total primary copay: $25.00
+Amount to be adjusted: $25.00
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Levi,Rine,"Rine, Levi (249046)",M,,Active,Increlex,,,"Pediatric  Endocrinology,  Physician Off","Jones, Evan A",,,1/15/2025,
+6577222,248752,248752,540778,,231,3/11/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $44,264.18
+Date of service: 03/11/2025
+Total primary copay: $114
+Amount to be adjusted: $114
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Haochen,Song,"Song, Haochen (248752)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6577179,248717,248717,540597,,231,3/11/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $51,321.39 
+Date of service: 03/11/2025
+Total primary copay: $100
+Amount to be adjusted: $100
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Eleanor,Canard,"Canard, Eleanor (248717)",F,,Active,Increlex,,,Cook Children's Endocrinology and Diabet,"Thomas, Teena C",,,12/19/2024,
+6571335,248604,248604,539626,,231,3/10/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,940.00
+Date of service: 03/10/2025
+Total primary copay: $30
+Amount to be adjusted: $30
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",F,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6552501,248840,248840,537902,,231,3/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $49,330.73
+Date of service: 03/05/2025
+Total primary copay: $291.06
+Amount to be adjusted: $291.06
+Adjustment Code: INCCP
+",Y,N,N,231,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Lynn,O'Shasky,"O'Shasky, Lynn (248840)",M,,Active,Increlex,,,Marshfield Clinic Health System,"Zamora-Siliezar, Luis H",,,12/27/2024,
+6552493,249279,249279,537976,,231,3/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $55,000
+Date of service: 03/05/2025
+Total primary copay: $90
+Amount to be adjusted: $90
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Saanvi,Patel,"Patel, Saanvi (249279)",F,,Active,Increlex,,,Nicklaus Children's Health System,"Tarkoff, Joshua",,,1/28/2025,
+6552451,248755,248755,537991,,231,3/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,920.00  
+Date of service: 03/05/2025
+Total primary copay: $80
+Amount to be adjusted: $80
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Anthony,Eager,"Eager, Anthony (248755)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6552439,248454,248454,538066,,231,3/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $48,223.48
+Date of service: 03/05/2025
+Total primary copay: $8470.31
+Amount to be adjusted: $8470.31
+Adjustment Code: INCCP
+",Y,N,N,231,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Henry,Coleman,"Coleman, Henry (248454)",M,,Active,Increlex,,,Walgreens Specialty Pharmacy,,,,12/9/2024,
+6546505,248841,248841,536157,,231,3/4/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,000.00
+Date of service: 03/04/2025
+Total primary copay: $500
+Amount to be adjusted: $500
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Kai,Crain,"Crain, Kai (248841)",M,,Active,Increlex,,,Joe DiMaggio Children's Health Specialty Center -W,"Flores, Mauricio",,,12/27/2024,
+6540799,248745,248745,536525,,96,3/3/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,750.00 
+Date of service: 03/03/2025
+Total primary copay: $250.00
+Amount to be adjusted: $250.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Ayaan,Ghai-Shah,"Ghai-Shah, Ayaan (248745)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6528063,248615,248615,536158,,231,2/27/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,920.00 
+Date of service: 02/27/2025
+Total primary copay: $40
+Amount to be adjusted: $40
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Benjamin,Palancia,"Palancia, Benjamin (248615)",M,,Inactive,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6515002,248599,248599,535564,,96,2/25/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,960.00 
+Date of service: 02/25/2025
+Total primary copay: $40.00
+Amount to be adjusted: $40.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Landyn,McCluer,"McCluer, Landyn (248599)",M,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6508527,248778,248778,532986,,476,2/24/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 02/24/2025
+Total primary copay:  $7402.62
+Amount to be adjusted: $7402.62
+Adjustment Code: INCCP
+",Y,N,N,476,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Jack,Welch,"Welch, Jack (248778)",M,,Inactive,Increlex,,,CVS/specialty,,,,12/20/2024,
+6476964,248735,248735,531160,,476,2/17/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $42,474.87  
+Date of service: 02/17/2025
+Total primary copay: $75
+Amount to be adjusted: $75
+Adjustment Code: INCCP
+",Y,N,N,476,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,lstinnett,"Stinnett, Latoya",Logan,Rego,"Rego, Logan (248735)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6476495,248780,248780,528201,,96,2/17/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $46,053.48 
+Date of service: 02/17/2025
+Total primary copay: $80.00
+Amount to be adjusted: $80.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Mia,Liautaud,"Liautaud, Mia (248780)",F,,Active,Increlex,,,CVS/specialty,,,,12/20/2024,
+6461747,248752,248752,531430,,476,2/13/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $49,632.09 
+Date of service: 2/13/2025
+Total primary copay: 5367.91
+Amount to be adjusted: 5367.91
+Adjustment Code: INCCP
+",Y,N,N,476,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,,lstinnett,"Stinnett, Latoya",Haochen,Song,"Song, Haochen (248752)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6460931,248604,248604,530013,,231,2/13/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,970.00
+Date of service: 02/13/2025
+Total primary copay: $30
+Amount to be adjusted: $30
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",F,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6460471,249046,249046,531321,,231,2/13/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000     CORRECTED NOTE 
+Date of service: 02/12/2025
+Total primary copay: $12,000
+Amount to be adjusted: $12,000
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Levi,Rine,"Rine, Levi (249046)",M,,Active,Increlex,,,"Pediatric  Endocrinology,  Physician Off","Jones, Evan A",,,1/15/2025,
+6456669,249046,249046,531321,,231,2/12/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 02/12/2025
+Total primary copay: $16,993.32
+Amount to be adjusted: $16,993.32
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Levi,Rine,"Rine, Levi (249046)",M,,Active,Increlex,,,"Pediatric  Endocrinology,  Physician Off","Jones, Evan A",,,1/15/2025,
+6451976,248913,248913,0,,96,2/11/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $51,644.83
+Date of service: 02/11/2025
+Total primary copay: $ 3412.81
+Amount to be adjusted: $3412.81
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,,Joanita Cook-Brown,"Cook-Brown, Joanita",Jackson,Puckett,"Puckett, Jackson (248913)",M,,Active,Increlex,,,,,,,1/6/2025,
+6447110,248755,248755,529963,,231,2/11/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 02/11/2025
+Total primary copay: $80
+Amount to be adjusted: $80
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Anthony,Eager,"Eager, Anthony (248755)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6439976,248607,248607,529645,,231,2/10/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 02/10/2025
+Total primary copay: $200
+Amount to be adjusted: $200
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",John,Morgenstern Jr,"Morgenstern Jr, John (248607)",M,,Active,Increlex,,,Pediatric Endocrinology & Diabetes,"Kishiyama, Christopher M",,,12/16/2024,
+6439893,248743,248743,528247,,231,2/10/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $38,896.26 
+Date of service: 02/10/2025
+Total primary copay: $75
+Amount to be adjusted: $75
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Eduardo,Ramos,"Ramos, Eduardo (248743)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6439884,248717,248717,527711,,231,2/10/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $51,421.39 
+Date of service: 02/10/2025
+Total primary copay:$100
+Amount to be adjusted: $100
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Eleanor,Canard,"Canard, Eleanor (248717)",F,,Active,Increlex,,,Cook Children's Endocrinology and Diabet,"Thomas, Teena C",,,12/19/2024,
+6422923,248745,248745,528479,,96,2/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 02/05/2025
+Total primary copay: $250.00
+Amount to be adjusted: $250.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Ayaan,Ghai-Shah,"Ghai-Shah, Ayaan (248745)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6419859,248856,248856,528443,,96,2/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 02/05/2025
+Total primary copay: $1739.53
+Amount to be adjusted: $1739.53
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Cole,Saltzman,"Saltzman, Cole (248856)",M,,Active,Increlex,,,CVS/specialty,,,,12/30/2024,
+6419767,248615,248615,527280,,96,2/5/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,960.00 
+Date of service: 02/05/2025
+Total primary copay:$40.00
+Amount to be adjusted: $40.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Benjamin,Palancia,"Palancia, Benjamin (248615)",M,,Inactive,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6416467,248718,248718,525167,,231,2/4/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 02/04/2025
+Total primary copay: $12,000
+Amount to be adjusted: $12,000
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Denied,LaTungia Hayes,"Hayes, LaTungia",Colton,Albright,"Albright, Colton (248718)",M,,Active,Increlex,,,Accredo Health Group,"Health Group, Accredo",,,12/19/2024,
+6413665,248454,248454,527831,,231,2/4/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:$51,611.74  
+Date of service: 02/04/2025
+Total primary copay: $3388.26
+Amount to be adjusted: $3388.26
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Henry,Coleman,"Coleman, Henry (248454)",M,,Active,Increlex,,,Walgreens Specialty Pharmacy,,,,12/9/2024,
+6413651,248617,248617,527212,,231,2/4/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,880.00
+Date of service: 02/04/2025
+Total primary copay: $120
+Amount to be adjusted: $120
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Teague,Morgan,"Morgan, Teague (248617)",M,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6410386,248840,248840,527859,,96,2/3/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $49,900.04
+Date of service: 02/03/2025
+Total primary copay: $569.31
+Amount to be adjusted: $569.31
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Lynn,O'Shasky,"O'Shasky, Lynn (248840)",M,,Active,Increlex,,,Marshfield Clinic Health System,"Zamora-Siliezar, Luis H",,,12/27/2024,
+6407951,248841,248841,525793,,231,2/3/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $54,500.00 
+Date of service: 02/03/25
+Total primary copay: $500
+Amount to be adjusted: $500
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Kai,Crain,"Crain, Kai (248841)",M,,Active,Increlex,,,Joe DiMaggio Children's Health Specialty Center -W,"Flores, Mauricio",,,12/27/2024,
+6387032,249156,249156,524005,,231,1/29/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/29/2025
+Total primary copay: $2658.93
+Amount to be adjusted: $2658.93
+Adjustment Code: INCCP
+",Y,N,N,231,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Carolina,Fagundes,"Fagundes, Carolina (249156)",F,,Active,Increlex,,,University of Miami Miller School of Medicine,"Berkowitz, Gary",,,1/22/2025,
+6387022,248804,248804,521115,,231,1/29/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/29/2025
+Total primary copay: $6700
+Amount to be adjusted: $6700
+Adjustment Code: INCCP
+",Y,N,N,231,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Raees,Crosby,"Crosby, Raees (248804)",M,,Active,Increlex,,,Accredo Health Group,"Health Group, Accredo",,,12/23/2024,
+6365053,248742,248742,523436,,96,1/23/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/23/2025
+Total primary copay: $4997.82
+Amount to be adjusted: $4997.82
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Denied,Joanita Cook-Brown,"Cook-Brown, Joanita",Elaina,Dallemolle,"Dallemolle, Elaina (248742)",F,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6353366,248735,248735,521327,,231,1/22/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000 
+Date of service: 01/22/2025
+Total primary copay: $12,525.13
+Amount to be adjusted: $12,525.13
+Adjustment Code: INCCP
+",Y,N,N,231,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Denied,LaTungia Hayes,"Hayes, LaTungia",Logan,Rego,"Rego, Logan (248735)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6353020,248599,248599,523319,,231,1/22/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/22/2025
+Total primary copay: $40
+Amount to be adjusted: $40
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Landyn,McCluer,"McCluer, Landyn (248599)",M,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6349579,248752,248752,523419,,96,1/21/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/21/2025
+Total primary copay: $5367.91
+Amount to be adjusted: $5367.91
+Adjustment Code: INCCP
+",Y,N,N,96,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Haochen,Song,"Song, Haochen (248752)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6342926,248604,248604,522697,,231,1/20/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/20/2025
+Total primary copay: $30
+Amount to be adjusted: $30
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Vaida,Gunasheva,"Gunasheva, Vaida (248604)",F,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6340079,248600,248600,521884,,231,1/20/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: 54700.00
+Date of service: 01/20/2025
+Total primary copay: $1400
+Amount to be adjusted: $1400
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Max,Lefebvre,"Lefebvre, Max (248600)",M,,Inactive,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6339920,248942,248942,522690,,231,1/20/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/20/2025
+Total primary copay: $2603.76
+Amount to be adjusted: $2603.76
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Steven,Dalton,"Dalton, Steven (248942)",M,,Active,Isturisa RN,,,,,,,1/8/2025,
+6318011,248717,248717,520943,,231,1/15/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/15/2025
+Total primary copay:$3578.61
+Amount to be adjusted: $3578.61
+Adjustment Code: INCCP
+",Y,N,N,231,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Eleanor,Canard,"Canard, Eleanor (248717)",F,,Active,Increlex,,,Cook Children's Endocrinology and Diabet,"Thomas, Teena C",,,12/19/2024,
+6317518,248780,248780,518404,,231,1/15/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/15/2025
+Total primary copay: $8946.52
+Amount to be adjusted: $8946.52
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Mia,Liautaud,"Liautaud, Mia (248780)",F,,Active,Increlex,,,CVS/specialty,,,,12/20/2024,
+6317495,248761,248761,520970,,231,1/15/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/15/2025
+Total primary copay: $150
+Amount to be adjusted: $150
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Anthony,Hayes,"Hayes, Anthony (248761)",M,,Inactive,Increlex,,,Accredo Health Group,"Health Group, Accredo",,,12/20/2024,
+6310608,248743,248743,518842,,231,1/14/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/14/2025
+Total primary copay: $16,103.74
+Amount to be adjusted: $16,103.74
+Adjustment Code: INCCP
+",Y,N,N,231,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Eduardo,Ramos,"Ramos, Eduardo (248743)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6310567,248913,248913,518331,,231,1/14/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/14/2025
+Total primary copay: $3355.17
+Amount to be adjusted: $3355.17
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Jackson,Puckett,"Puckett, Jackson (248913)",M,,Active,Increlex,,,,,,,1/6/2025,
+6302581,248615,248615,519596,,231,1/13/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/13/2025
+Total primary copay: $40
+Amount to be adjusted: $40
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Benjamin,Palancia,"Palancia, Benjamin (248615)",M,,Inactive,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6285217,248756,248756,518271,,231,1/8/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/08/2025
+Total primary copay: $7,500
+Amount to be adjusted:$7,500
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Gino,Cuppari,"Cuppari, Gino (248756)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6284215,248733,248733,518594,,231,1/8/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/08/2025
+Total primary copay: $60
+Amount to be adjusted: $60
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Lilly,Bakhchi,"Bakhchi, Lilly (248733)",F,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6280145,248454,248454,518335,,231,1/7/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/07/2025
+Total primary copay:$3388.26
+Amount to be adjusted:$3388.26
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Henry,Coleman,"Coleman, Henry (248454)",M,,Active,Increlex,,,Walgreens Specialty Pharmacy,,,,12/9/2024,
+6276669,248617,248617,517932,,231,1/7/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance:  $55,000
+Date of service: 01/07/2025
+Total primary copay: $120
+Amount to be adjusted: $120
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Teague,Morgan,"Morgan, Teague (248617)",M,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6276623,248840,248840,518108,,231,1/7/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/07/2025
+Total primary copay: $5099.96
+Amount to be adjusted: $5099.96
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Lynn,O'Shasky,"O'Shasky, Lynn (248840)",M,,Active,Increlex,,,Marshfield Clinic Health System,"Zamora-Siliezar, Luis H",,,12/27/2024,
+6269393,248841,248841,517652,,231,1/6/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/06/2025
+Total primary copay: $500
+Amount to be adjusted: $500
+Adjustment Code: INCCP
+",Y,N,N,231,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Kai,Crain,"Crain, Kai (248841)",M,,Active,Increlex,,,Joe DiMaggio Children's Health Specialty Center -W,"Flores, Mauricio",,,12/27/2024,
+6252799,248616,248616,514129,,231,1/2/2025,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 01/02/2024
+Total primary copay: $5000
+Amount to be adjusted: $5000
+Adjustment Code: INCCP
+",Y,N,N,231,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,LaTungia Hayes,"Hayes, LaTungia",Christopher,Sipe,"Sipe, Christopher (248616)",M,,Active,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,
+6240833,248755,248755,514362,,96,12/30/2024,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 12/30/2024
+Total primary copay: $80.00
+Amount to be adjusted: $80.00
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Anthony,Eager,"Eager, Anthony (248755)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6230160,248717,248717,513903,,96,12/26/2024,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 12/26/2024
+Total primary copay: $3612.49
+Amount to be adjusted: $3612.49
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Eleanor,Canard,"Canard, Eleanor (248717)",F,,Active,Increlex,,,Cook Children's Endocrinology and Diabet,"Thomas, Teena C",,,12/19/2024,
+6230093,248735,248735,513429,,96,12/26/2024,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 12/16/2024
+Total primary copay: $12,643.71
+Amount to be adjusted: $12,643.71
+Adjustment Code: INCCP
+",Y,N,N,96,Y,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,Ready To Bill                                     ,Joanita Cook-Brown,"Cook-Brown, Joanita",Logan,Rego,"Rego, Logan (248735)",M,,Active,Increlex,,,CVS/specialty,,,,12/19/2024,
+6221512,248600,248600,0,,170,12/23/2024,,INCRELEX COPAY ADJUSTMENT REQUEST,"Available copay card balance: $55,000
+Date of service: 12/23/24
+Total primary copay:$300
+Amount to be adjusted:$300
+Adjustment Code: INCCP
+",Y,N,N,170,N,Billing,14,AnovoRx Group  LLC,5,Site 05 Specialty  1710,1,,dmack,"Mack, Denetrius",Max,Lefebvre,"Lefebvre, Max (248600)",M,,Inactive,Increlex,,,Optum Specialty Pharmacy,,,,12/16/2024,

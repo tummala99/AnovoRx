@@ -1,0 +1,22 @@
+CREATE TABLE dbo.[STG_PAAppealNotes] (
+    [patient_team] VARCHAR(50),
+    [note_sys_id] VARCHAR(50),
+    [note_patient_mrn] VARCHAR(50),
+    [note_patient_sys_id] VARCHAR(50),
+    [note_entered_date] VARCHAR(50),
+    [note_subject] VARCHAR(500),
+    [note_body] VARCHAR(5000),
+    [note_enter_user] VARCHAR(50),
+    [patient_first_name] VARCHAR(50),
+    [patient_last_name] VARCHAR(50),
+    [patient_full_name] varchar(50),
+    [patient_category] varchar(50),
+    [patient_status] varchar(50),
+    [patient_service_area] varchar(50),
+    [patient_referral_organization] varchar(500),
+    [patient_referral_source_contact] varchar(50),
+    [next_fu] varchar(50),
+    [patient_referral_date] varchar(50),
+    [patient_insurance_coordinator] varchar(50),
+	Import_Date	DATETIME DEFAULT GETDATE()
+)

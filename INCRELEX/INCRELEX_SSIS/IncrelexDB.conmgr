@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="IncrelexDev"
+  DTS:DTSID="{52CB67F2-DE3E-4495-BF7A-A1CD763C6580}"
+  DTS:CreationName="OLEDB">
+  <DTS:PropertyExpression
+    DTS:Name="InitialCatalog">@[$Project::DatabaseName]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="Password">@[$Project::DatabasePassword]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="ServerName">@[$Project::ServerName]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="UserName">@[$Project::DatabaseUserName]</DTS:PropertyExpression>
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=anovodev1.c2xt29qw5zzh.ap-south-1.rds.amazonaws.com;User ID=India;Initial Catalog=IncrelexDev;Provider=SQLOLEDB.1;Application Name=SSIS-Package1-{52CB67F2-DE3E-4495-BF7A-A1CD763C6580}anovodev1.c2xt29qw5zzh.ap-south-1.rds.amazonaws.com.IncrelexDev.India;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJq7HvjnHn0iMQvU1LqENRgAAAAACAAAAAAAQZgAAAAEAACAAAACrF13SOO4b9iDXyLzVOatfDVPgyGwFSNN/kom/ag0fKQAAAAAOgAAAAAIAACAAAABeF44s/WN0AGDkrLiEZl1P9hDQ2EL+2RYeXc5WeGApPYAAAABrbQ9RTLCBmXk976IMi8qIsBLvv3taTt8DiHfuumyAodXEOnlbiBsYiV4KYsRRaC11a6+tMvyvwKtFV9ZNzMvzqi09JJxmc9vaYN6UM18jO+zjg7qeoAxh7LJyMpA8HdXtjCQBOFJMxS1WNW/pPbkK+j8oW7SOq1u4NErnFleuP0AAAACrwB4eeIvWlGKkxF1AE2bxpkE+Rzsh0ur8BFDjWPu9+qdGwq54Lvh94JawW5a+tATrpK78Dsth2O+iy2Kv1pYP</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
